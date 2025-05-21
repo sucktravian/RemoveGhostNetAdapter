@@ -1,0 +1,35 @@
+# PowerShell temporary files
+*.ps1xml
+*.psd1
+*.psm1
+*.dll
+*.exe
+
+# VSCode settings and workspace files
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Backup and temp files
+*.bak
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Node modules (if you ever use Node tooling)
+node_modules/
+
+# Git metadata
+.git/
+
+# Ignore build or output directories (if any)
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
